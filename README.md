@@ -1,6 +1,6 @@
 # a-greater-purpose-game
 
-A Greater Purpose is a visual novel game developed using Ren'Py, coded in Python. The game immerses players in a captivating narrative where choices shape the outcome of the story. With intricate character designs and a compelling plot, players embark on a journey that explores themes of purpose, relationships, and self-discovery.
+A Greater Purpose is a visual novel game I developed using Ren'Py, coded in Python. The game immerses players in a captivating narrative where choices shape the outcome of the story. With intricate character designs and a compelling plot, players embark on a journey that explores themes of purpose, relationships, and self-discovery.
 
 Features
 - Engaging storyline with multiple endings based on player choices.
